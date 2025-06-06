@@ -1,2 +1,74 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ClassDiagram /> 
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bullet">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAEAAAAAAAAAAAAAQAAQAAABABAAIA=</HashCode>
+      <FileName>Assets\Scripts\Bullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CameraFollow">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAIAAAIAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Assets\Scripts\CameraFollow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQBAAAACIAIAAAAAAAAIAAAAAAAAAAAUAAAAAEAAAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyFormationManager">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAgUAIAYAAAIoAAAAAEIAACCAAhAQgAAIACCEg=</HashCode>
+      <FileName>Assets\Scripts\EnemyFormationManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyType1">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\EnemyType1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyType2">
+    <Position X="2.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\EnemyType2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameManager">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FAEAAAAAACACAAogAIgAAAAgAAFBBCCRgQACAKCAhcY=</HashCode>
+      <FileName>Assets\Scripts\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerController">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAAAAAKAAAAAAAQAAAAAAAAEAEAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerShooting">
+    <Position X="5.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAABAAAIAAABAAAQAAAAAAAAEAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerShooting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIManager">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAACAAARAkBQAIAAAAAABAAAEBAAAAAABAgEA=</HashCode>
+      <FileName>Assets\Scripts\UIManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
